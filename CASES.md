@@ -16,7 +16,7 @@
 
 - Custom (board DoD: link to `.review/rules.md`)
 - File: `app/reports/export.py`
-- Violates `[DOC-1]` in `.review/rules.md` (public function, no docstring)
+- Violates `[STY-1]` in `.review/rules.md` (public function, no docstring)
 
 ## Optional later (not opened by default)
 
